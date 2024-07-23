@@ -1,5 +1,3 @@
-<style>text-align: center;</style>
-
 # Hi there! 👋
 
 ## I'm Tsotne Gujabidze, a Leader at Goal Oriented Academy (GOA) 🎓
