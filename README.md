@@ -13,5 +13,5 @@
 - 🌐 Create projects that inspire and educate
 
 ### Connect with Me 🌍
-- 📘 Facebook: [Cotne Gujabidze]([https://www.facebook.com/your_profile](https://www.facebook.com/cotne.gujabidze.9/))
+- 📘 Facebook: [Cotne Gujabidze]((https://www.facebook.com/cotne.gujabidze.9/))
 - 📸 Instagram: [ajugstar](https://www.instagram.com/ajugstar/)
