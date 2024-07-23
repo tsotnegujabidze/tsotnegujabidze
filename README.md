@@ -3,7 +3,7 @@
 ## I'm Tsotne Gujabidze, a Leader at Goal Oriented Academy (GOA) 🎓
 
 ### About Me ℹ️
-- 🌟 Current Rank: 4th Highest Rank
+- 🌟 Current Rank: Mentor's Assistant
 - 🎂 Age: 14 years old
 - 🚀 Skills: Python, HTML, CSS
 
