@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_2024-07-23_121303924.png" alt="GOA Logo">
+  <img src="image_2024-07-23_121303924.png" alt="GOA Logo" width="1000" height="300">
 </p>
 
 # Hi there! 👋
