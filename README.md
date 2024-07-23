@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fnika11keshelava%2F&psig=AOvVaw01wIU3BJA358UIvLNd1Vk8&ust=1721808649197000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjzmJnbvIcDFQAAAAAdAAAAABAE" alt="GOA Logo">
+  <img src="image_2024-07-23_121303924.png" alt="GOA Logo">
 </p>
 
 # Hi there! 👋
