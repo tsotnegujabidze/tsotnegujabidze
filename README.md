@@ -25,25 +25,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram">
   </a>
 </p>
-
----
-
-### How to Use This Repository
-
-Describe briefly how someone can make use of the contents of your repository. For example, if it's a collection of educational projects or resources, you could say:
-
-"This repository contains a collection of educational projects I've developed for teaching Python, HTML, and CSS. Feel free to explore and use these projects to learn and inspire others."
-
-### Additional Information
-
-Include any additional details about your projects or yourself that you think would be relevant and interesting for visitors to know.
-
----
-
-### Acknowledgments
-
-If there are any acknowledgments or credits you want to give, such as to mentors, collaborators, or sources of inspiration, you can mention them here.
-
----
-
-Feel free to replace the placeholder URLs (`https://example.com/your-logo.png`, Facebook and Instagram URLs) with actual links to images/logos and your social media profiles. This README file now includes Facebook and Instagram logos with links for easy access to your social media profiles.
