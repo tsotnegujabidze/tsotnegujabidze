@@ -25,3 +25,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram">
   </a>
 </p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsotnegujabidze&show_icons=true&locale=en&layout=compact" alt="MyGithubStats" /></p>
