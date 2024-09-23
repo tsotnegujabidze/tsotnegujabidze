@@ -13,7 +13,7 @@
 
 ### What I Do 🌟
 - 📚 Lead and mentor students at GOA
-- 💻 Teach Python, HTML, and CSS
+- 💻 Teach Python, HTML, CSS and JavaScript
 - 🌐 Create projects that inspire and educate
 
 ### Connect with Me 🌍
