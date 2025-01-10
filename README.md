@@ -9,7 +9,7 @@
 ### About Me ℹ️
 - 🌟 Current Rank: Mentor's Assistant
 - 🎂 Age: 14 years old
-- 🚀 Skills: Python, HTML, CSS, JavaScript
+- 🚀 Skills: Python, HTML5, CSS3, JavaScript
 
 ### What I Do 🌟
 - 📚 Lead and mentor students at GOA
