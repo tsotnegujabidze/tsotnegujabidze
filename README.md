@@ -24,4 +24,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tsotnegujabidze&show_icons=true&theme=radical" alt="MyGithubStats" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsotnegujabidze&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="MyGithubStats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tsotnegujabidze&show_icons=true&theme=radical" alt="MyGithubStats" /></p>
+
+
