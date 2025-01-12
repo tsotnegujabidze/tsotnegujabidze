@@ -8,7 +8,7 @@
 - 💭 Currently learning REACT
 
 ### What I Do 🌟
-- 📚 Lead and mentor students at GOA
+- 📚 Lead and mentor students
 - 💻 Teach Python, HTML, CSS and JavaScript
 - 🌐 Create projects that inspire and educate
 
