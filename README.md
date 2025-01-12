@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="image_2024-07-23_121303924.png" alt="GOA Logo" width="1000" height="300">
-</p>
-
 # Hi there! 👋
 
-## I'm Tsotne Gujabidze, a Leader at Goal Oriented Academy (GOA) 🎓
+## I'm Tsotne 
 
 ### About Me ℹ️
-- 🌟 Current Rank: Mentor's Assistant
 - 🎂 Age: 14 years old
 - 🚀 Skills: Python, HTML5, CSS3, JavaScript
+- 
 
 ### What I Do 🌟
 - 📚 Lead and mentor students at GOA
