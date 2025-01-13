@@ -7,7 +7,7 @@
 - 🚀 Skills: Python, HTML5, CSS3, JavaScript
 - 💭 Currently learning REACT
 <hr>
-### What I Do 🌟
+### What I Do 🌟 <br>
 - 📚 Lead and mentor students <br>
 - 💻 Teach Python, HTML, CSS and JavaScript <br>
 - 🌐 Create projects that inspire and educate <br>
