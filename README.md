@@ -8,9 +8,9 @@
 - 💭 Currently learning REACT
 <hr>
 ### What I Do 🌟
-- 📚 Lead and mentor students
-- 💻 Teach Python, HTML, CSS and JavaScript
-- 🌐 Create projects that inspire and educate
+- 📚 Lead and mentor students <br>
+- 💻 Teach Python, HTML, CSS and JavaScript <br>
+- 🌐 Create projects that inspire and educate <br>
 <hr>
 ### Connect with Me 🌍
 <p align="left">
