@@ -15,10 +15,10 @@
  Connect with Me 🌍
 <p align="left">
   <a target="_blank" href="https://www.facebook.com/cotne.gujabidze.9/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" alt="Facebook">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px" alt="Facebook">
   </a>&nbsp;&nbsp;
   <a target="_blank href="https://www.instagram.com/ajugstar/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram">
   </a>
 </p>
 <hr>
