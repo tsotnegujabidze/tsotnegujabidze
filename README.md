@@ -3,9 +3,9 @@
 ## I'm Tsotne Gujabidze
 
 ### About Me ℹ️
-- 🎂 Age: 14 years old
-- 🚀 Skills: Python, HTML5, CSS3, JavaScript
-- 💭 Currently learning REACT
+- 🎂 Age: 15 years old
+- 🚀 Skills: Python, HTML5, CSS3, JavaScript, React, TypeScript
+- 💭 Currently learning nodejs
 <hr>
  What I Do 🌟 <br>
 - 📚 Lead and mentor students <br>
